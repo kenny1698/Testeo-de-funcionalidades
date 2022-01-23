@@ -1,0 +1,45 @@
+[2022-01-21T10:38:09.577] [ERROR] error - error al guardar producto:
+        producto is not defined
+[2022-01-22T09:48:33.156] [ERROR] error - Error al parsear ./DB/productos.json como JSON:
+
+       Unexpected end of JSON input
+[2022-01-22T10:49:43.400] [ERROR] error - Error al parsear ./DB/productos.json como JSON:
+
+       Unexpected end of JSON input
+[2022-01-22T10:51:43.811] [ERROR] error - error al actualizar producto:
+        Error al actualizar: no se encontró el id undefined
+[2022-01-23T08:32:32.041] [ERROR] error - error al guardar producto:
+        Error al parsear ./DB/productos.json como JSON:
+
+       Unexpected end of JSON input
+[2022-01-23T08:50:33.320] [ERROR] error - Error al parsear ./DB/productos.json como JSON:
+
+       Unexpected end of JSON input
+[2022-01-23T08:50:33.330] [ERROR] error - error al guardar producto:
+        Error al parsear ./DB/productos.json como JSON:
+
+       Unexpected end of JSON input
+[2022-01-23T08:53:15.357] [ERROR] error - Error al parsear ./DB/productos.json como JSON:
+
+       Unexpected end of JSON input
+[2022-01-23T08:53:15.372] [ERROR] error - error al guardar producto:
+        Error al parsear ./DB/productos.json como JSON:
+
+       Unexpected end of JSON input
+[2022-01-23T08:57:33.973] [ERROR] error - Error al parsear ./DB/productos.json como JSON:
+
+       Unexpected end of JSON input
+[2022-01-23T09:02:47.749] [ERROR] error - Error al parsear ./DB/productos.json como JSON:
+
+       Unexpected end of JSON input
+[2022-01-23T09:03:31.062] [ERROR] error - Error al parsear ./DB/productos.json como JSON:
+
+       Unexpected end of JSON input
+[2022-01-23T09:05:14.540] [ERROR] error - error al borrar producto:
+        Error al parsear ./DB/productos.json como JSON:
+
+       Unexpected end of JSON input
+[2022-01-23T09:08:35.643] [ERROR] error - error al borrar producto:
+        Error al parsear ./DB/productos.json como JSON:
+
+       Unexpected end of JSON input

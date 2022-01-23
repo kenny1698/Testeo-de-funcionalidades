@@ -1,0 +1,7 @@
+[2022-01-17T16:52:52.151] [ERROR] error - error al guardar producto:
+
+Error al guardar: Error: ENOENT: no such file or directory, open 'C:\Users\u585715\Desktop\Curso\nginx-1.21.4\Dividir en capas nuestro proyecto\src\DB\productos.json'
+[2022-01-17T16:53:18.127] [ERROR] error - error al guardar producto:
+
+Error al guardar: Error: ENOENT: no such file or directory, open 'C:\Users\u585715\Desktop\Curso\nginx-1.21.4\Dividir en capas nuestro proyecto\src\DB\productos.json'
+[2022-01-17T17:20:34.293] [ERROR] error - Cannot access 'productos' before initialization

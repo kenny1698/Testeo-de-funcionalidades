@@ -1,0 +1,7 @@
+[2022-01-17T22:36:19.127] [WARN] warn - GET /plantillas/tabla-productos.hbs - ruta inexistente!
+[2022-01-22T10:49:43.439] [WARN] warn - PUT /api/productos/?id=1 - ruta inexistente!
+[2022-01-23T08:30:46.409] [WARN] warn - PUT /api/productos18 - ruta inexistente!
+[2022-01-23T08:44:43.785] [WARN] warn - PUT /api/productos - ruta inexistente!
+[2022-01-23T08:45:34.876] [WARN] warn - PUT /api/productos/ - ruta inexistente!
+[2022-01-23T08:46:20.284] [WARN] warn - PUT /api/productos/ - ruta inexistente!
+[2022-01-23T08:49:36.985] [WARN] warn - PUT /api/productos18 - ruta inexistente!

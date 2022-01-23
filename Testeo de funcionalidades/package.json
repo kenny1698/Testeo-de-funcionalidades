@@ -1,0 +1,51 @@
+{
+  "type": "module",
+  "name": "sockets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "watch": "nodemon src/main.js -e hbs,html,js,json",
+    "startProf": "0x src/main.js",
+    "benchmark": "node scripts/benchmark.js",
+    "test-superchai": "mocha test/test-superchai.js",
+    "test-axios": "node test/test-axios.js"
+  },
+  "keywords": [],
+  "author": "Coderhouse",
+  "license": "ISC",
+  "dependencies": {
+    "artillery": "^1.7.9",
+    "assert": "^2.0.0",
+    "autocannon": "^7.5.0",
+    "child_process": "^1.0.2",
+    "cluster": "^0.7.7",
+    "compression": "^1.7.4",
+    "connect-mongo": "^4.6.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "express-session": "^1.17.2",
+    "faker": "^5.5.3",
+    "knex": "^0.95.11",
+    "log4js": "^6.3.0",
+    "minimist": "^1.2.5",
+    "moment": "^2.29.1",
+    "mongodb": "^4.1.4",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15",
+    "normalizr": "^3.6.1",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
+    "socket.io": "^3.1.2",
+    "sqlite3": "^5.0.2",
+    "util": "^0.12.4",
+    "yargs": "^17.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.4",
+    "supertest": "^6.2.2"
+  }
+}

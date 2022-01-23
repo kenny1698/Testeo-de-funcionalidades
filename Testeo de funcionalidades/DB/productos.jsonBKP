@@ -1,0 +1,32 @@
+[
+  {
+    "title": "TV",
+    "price": "100",
+    "thumbnail": "http://placeimg.com/640/480/nature"
+  },
+  {
+    "title": "Mesa",
+    "price": "100",
+    "thumbnail": "http://placeimg.com/640/480/nature"
+  },
+  {
+    "title": "Silla",
+    "price": "20",
+    "thumbnail": "http://placeimg.com/640/480/nature"
+  },
+  {
+    "title": "tele",
+    "price": "666",
+    "thumbnail": "http://placeimg.com/640/480/nature"
+  },
+  {
+    "title": "cuaderno ",
+    "price": "99",
+    "thumbnail": "http://placeimg.com/640/480/nature"
+  },
+  {
+    "title": "notebook",
+    "price": "12345678",
+    "thumbnail": "http://placeimg.com/640/480/nature"
+  }
+]
